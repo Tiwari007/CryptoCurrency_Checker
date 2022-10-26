@@ -1,19 +1,9 @@
 .card{
-    max-width: 300px;
+    max-width: 600px;
     border: 1px solid black;
     margin: auto;
-    /* text-align: center; */
-    margin-top: 50px;
-}
+    margin-top: 40px;
+    padding: 10px;
 
-h2{
-    text-align: center;
+    display: flex;
 }
-.card p:nth-child(n){
-    background-color: aquamarine;
-}
-
-.card span{
-    font-weight: bolder;
-}
-

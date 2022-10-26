@@ -2,7 +2,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 40px;
+    margin-top: 20px;
+    text-shadow: 4px 4px 4px rgb(161, 113, 113);
 }
 
 .searchBar select{
@@ -10,7 +11,7 @@
     height: 40px;
     margin: auto;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .button button{
