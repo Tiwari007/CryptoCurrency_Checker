@@ -1,5 +1,7 @@
 # CRYPTO CURRENCY CHECKER
 
+![alt text](https://github.com/Tiwari007/CryptoCurrency_Checker/blob/master/Media/CryptoCurrency_Checker.jpeg?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
