@@ -1,0 +1,19 @@
+.card{
+    max-width: 300px;
+    border: 1px solid black;
+    margin: auto;
+    /* text-align: center; */
+    margin-top: 50px;
+}
+
+h2{
+    text-align: center;
+}
+.card p:nth-child(n){
+    background-color: aquamarine;
+}
+
+.card span{
+    font-weight: bolder;
+}
+
