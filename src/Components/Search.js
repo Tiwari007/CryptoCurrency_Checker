@@ -12,9 +12,9 @@ const Search = (props) => {
   if(isError) console.log(error);
   if(isLoading) return <h1>Loading...</h1>
 
-  console.log(data);
   
   const submitHandler = (e) => {
+    if(!currencyNameInput) setCurrencyNameInput(data[0]?.name)
     e.preventDefault();
     props.CurrencyNameData(data.filter(currencyDatas => currencyDatas.name === currencyNameInput)[0]);
   };
